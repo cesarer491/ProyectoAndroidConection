@@ -51,6 +51,7 @@
                 android:layout_gravity="center"
                 android:hint="@string/password"
                 android:padding="10dp"
+                android:inputType="textPassword"
                 android:layout_marginTop="30dp"
                 android:drawableLeft="@drawable/ic_https_black"
 
@@ -63,7 +64,8 @@
                 android:textColor="#fff"
                 android:background="@color/colorsecong"
                 android:layout_marginTop="20dp"
-                android:layout_gravity="center"/>
+                android:layout_gravity="center"
+                android:id="@+id/btn_entrar"/>
 
         </LinearLayout>
 
