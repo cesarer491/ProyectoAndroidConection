@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CCCIConection</string>
+    <string name="login">Login</string>
+    <string name="User">Usuario</string>
+    <string name="password">Password</string>
+    <string name="entrar">Entrar</string>
 </resources>
